@@ -89,3 +89,7 @@ section {
     @apply bg-background text-foreground;
   }
 }
+
+.fade-mask {
+  mask-image: linear-gradient(to bottom, black, transparent);
+}

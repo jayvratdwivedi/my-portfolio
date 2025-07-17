@@ -18,7 +18,7 @@ const HeroSection = () => {
           }}
           className="text-5xl md:text-7xl lg:text-8xl font-bold z-10 mb-6"
         >
-          Building Fast <br /> Relieble Results
+          Full Stack & <br /> DevOps Engineer
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 80 }}
@@ -32,9 +32,10 @@ const HeroSection = () => {
           }}
           className="text-xl md:text-1xl lg:text-2xl text-purple-200 max-w-2xl"
         >
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, harum
-          repudiandae quas id consequatur esse. Mollitia consequatur molestiae
-          molestias magnam alias.
+          Web developer with expertise in building and deploying full stack
+          applications using modern frameworks and tools. Skilled in modern
+          front-end and back-end technologies, CI/CD pipelines,
+          containerization, and cloud infrastructure.
         </motion.p>
       </div>
       {/* Right Section */}
